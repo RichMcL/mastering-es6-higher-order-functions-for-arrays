@@ -73,9 +73,9 @@ There are many other cool things about arrow functions, like the **lexical this 
 
 ## Higher-order functions for Arrays
 
-Now, let's have a look on some ES6 high-order functions for Arrays. They will allow you to write code using Functional approach, so that you will no longer need to use Imperative ```for```/```while``` loops to process arrays. You will soon enough understand how much better it is to work with those high-order functions compared to loops, as they are much more expressive, readable, reusable, maintainable and consequentially more elegant.
+Now, let's have a look on some ES6 high-order functions for Arrays. They will allow you to write code using Functional approach, so that you will no longer need to use imperative ```for```/```while``` loops to process arrays. You will soon enough understand how much better it is to work with those high-order functions compared to loops, as they are much more expressive, readable, reusable, maintainable and consequentially more elegant.
 
-In order to illustrate, let's take the following Imperative program and rewrite it:
+In order to illustrate, let's take the following imperative program and rewrite it:
 
 ```javascript
 var starships = require('./starships.json');
